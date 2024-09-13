@@ -1,0 +1,16 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+/package-lock.json
+
+# dependencies
+/node_modules
+
+# reporting
+/allure-report
+/src/reports
+
+# rerun logic
+/logs
+/rerun.ps1
+/rerun.sh
+/rerun1.sh
+/rerun.bat

@@ -1,0 +1,11 @@
+build/
+node_modules/
+logs/
+allure-report/
+package-lock.json
+yarn.lock
+package.json
+.min.js
+testRun1.ps1
+testRun2.ps1
+docs/

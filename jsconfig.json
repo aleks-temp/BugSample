@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "types": ["node", "@wdio/globals/types", "@wdio/cucumber-framework"],
+    "target": "es6",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "exclude": ["node_modules"]
+}
